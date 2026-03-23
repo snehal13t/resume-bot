@@ -2,9 +2,6 @@
 
 A RAG (Retrieval-Augmented Generation) application that allows users to upload resumes (PDF, DOCX, Images) and chat with them instantly to extract skills, experience, and candidate details.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Here) 
-*(Replace this link with your actual screenshot, e.g., image_69d662.png)*
-
 🚀 Features
 
 * **Multi-Format Support:** Upload PDFs, Word documents (.docx), and Images (JPG/PNG).
